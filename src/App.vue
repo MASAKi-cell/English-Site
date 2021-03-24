@@ -30,8 +30,14 @@ export default {
   data: () => {
     //
   },
-  methods: {
-    ...mapActions(['toggleSideMenu'])
-  }
-}
+    methods: {
+    ...mapActions([
+      "toggleSideMenu", //sidemenu
+      "setLoginUser", //login
+      "logout", //logout
+      "deleteLoginUser", //loginを削除
+      "fetchAddresses",
+    ]),
+  },
+};
 </script>
