@@ -1,1 +1,1 @@
-# Vue.jsのAPI機能実 #
+# Vue.js + Firebase #
