@@ -1,1 +1,1 @@
-# Vue.jsのAPI機能実装
+# Vue.jsのAPI機能実 #
