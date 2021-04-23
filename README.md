@@ -1,2 +1,2 @@
-# Vue.js + Firebaseを使用した学習アプリ #
+# Vue.js + Firebaseを使用した学習アプリを制作 #
 
