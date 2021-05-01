@@ -5,6 +5,7 @@
 
 ・サイトタイトル名：Study-Tube
 　URL ：https://english-tube-c340d.web.app/
+ <br>
 　GitHub：https://github.com/MASAKi-cell/Study-Tube
 
 ・テスト用アカウン
