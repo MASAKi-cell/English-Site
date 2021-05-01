@@ -3,7 +3,7 @@
 ### このポートフォリオサイトを制作した背景
 日々のビジネスマンの情報収集や学習の助けになればと思いこのアプリを作成しました。
 
-・サイトタイトル名：Study-Tube
+・サイトタイトル名：Study-Tube<br>
 　URL ：https://english-tube-c340d.web.app/
  <br>
 　GitHub：https://github.com/MASAKi-cell/Study-Tube
