@@ -11,7 +11,7 @@
 ・テスト用アカウン
 　メールアドレス：
 　パスワード　　：
-　※ユーザー管理はfirebaseのAuthenticationを使用してます。
+<br>　※ユーザー管理はfirebaseのAuthenticationを使用してます。
 
 
 
