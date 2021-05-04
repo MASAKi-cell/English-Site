@@ -19,7 +19,6 @@
 コロナの影響で、リモートワークなど家にいる時間が増えました。家にいる間、様々な情報やスキルを学習する助けになればと思い、動画で学べる学習アプリ「Study-Tube」を作成しました。
 
 
-
 ### 使用技術
 ・フロントエンド：Vue.js(VueRouter,Vuex,Vuetify,axios)、HTML、Sass
 ・バックエンド　：Firebase(Hosting,Authentication)
