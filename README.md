@@ -8,9 +8,9 @@
  <br>
 　GitHub：https://github.com/MASAKi-cell/Study-Tube
 
-・テスト用アカウン
-　メールアドレス：<br>
-　パスワード　　：
+・テスト用アカウン<br>
+　メールアドレス：bje@gmail.com <br>
+　パスワード　　：English
 <br>　※ユーザー管理はfirebaseのAuthenticationを使用してます。
 
 
