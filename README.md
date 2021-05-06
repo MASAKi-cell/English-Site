@@ -9,7 +9,7 @@
 　GitHub：https://github.com/MASAKi-cell/Study-Tube
 
 ・テスト用アカウン
-　メールアドレス：
+　メールアドレス：<br>
 　パスワード　　：
 <br>　※ユーザー管理はfirebaseのAuthenticationを使用してます。
 
