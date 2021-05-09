@@ -23,10 +23,16 @@
 ・フロントエンド：Vue.js(VueRouter,Vuex,Vuetify,axios)、HTML、Sass
 ・バックエンド　：Firebase(Hosting,Authentication)
 
+その他ツール
+・VScode、Developer Tools
+・ソースコード管理：GitHub
+・進捗管理　　　　：Trello
+
 
 ### 主な機能一覧
 ・会員登録、ログイン、ログアウト、Googleアカウントのログイン機能
 ・Youtube Video APIから動画をキーワード検索、一覧表示
+・News APIを使用して英語記事表示機能
 
 
 
@@ -37,6 +43,7 @@
 ・ Firebase Authenticationを使用したGoogleアカウント認証機能
 ・ Firebase Hostingを使用したアプリケーションの公開
 ・ Youtube APIを実装
+・ API News APIで記事表示機能を実装
 ・ コードはGitHubで管理
 ・ ヘッダー部のボタンはハンバーガーメニューを実装しレスポンシブに対応してます。
 
